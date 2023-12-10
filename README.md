@@ -6,3 +6,4 @@
 - 😄 My interests: music and partying
 - ⚡ Fun fact: my life
 - [Moja strona]( https://rosul9.github.io/)
+- [Fork](https://github.com/Rosul9/GenerativeLEGO.git) ze strony [PapersWithCode](https://paperswithcode.com/paper/building-lego-using-deep-generative-models-of#code)
